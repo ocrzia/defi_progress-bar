@@ -6,3 +6,5 @@ window.addEventListener('scroll', function() {
   let largeurPB = (alreadyScrolled / hauteurTot)*100;
   progressBar.style.width= largeurPB+'%';
 });
+
+// Coucou
